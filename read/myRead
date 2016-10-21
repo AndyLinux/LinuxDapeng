@@ -1,0 +1,5 @@
+
+echo -n "Please input your name:"
+read name
+echo "Welcome !!! $name"
+exit 0

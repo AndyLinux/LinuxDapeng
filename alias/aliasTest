@@ -1,0 +1,10 @@
+#!/bin/bash --login
+##
+
+shopt expand_aliases
+shopt -s expand_aliases
+shopt expand_aliases
+alias
+
+ll
+

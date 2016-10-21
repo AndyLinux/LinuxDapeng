@@ -1,0 +1,10 @@
+#!/bin/bash
+count=0
+while read line
+do	
+ let count=$count+1
+ echo "line $count:$line"
+done <test.txt
+echo "finished"
+echo "Line no is $count"
+exit 0
