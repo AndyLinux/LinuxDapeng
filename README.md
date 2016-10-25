@@ -4,3 +4,4 @@
 # this is test staged area
 # this is test conflict
 # this is test rebase.
+# this is feature-D.
